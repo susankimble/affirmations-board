@@ -57,7 +57,7 @@ gap: 20px;
   /* Add a Flexbox property to make every block with text a flex parent container. */
 display: flex;
   /* Add a Flexbox property to align the text in each block at its center. */
-justify-content: center;
+align-items: center;
   padding: 10px;
   border: 1px solid #07c0e6;
 }
